@@ -1,0 +1,23 @@
+name: jasonrhee
+favicon: null
+layout_spectrum: 0.1392812815029174
+typography_spectrum: 0.5276747567113489
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.47677297121845186
+  lightness: 0.6787342948373407
+  saturation: 0.22996478946879506
+  rhythmicContrast: 0.9253120240755379
+purpose: []
