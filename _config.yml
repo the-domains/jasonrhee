@@ -1,23 +1,40 @@
-name: jasonrhee
 favicon: null
-layout_spectrum: 0.1392812815029174
-typography_spectrum: 0.5276747567113489
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: jasonrhee
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.47677297121845186
-  lightness: 0.6787342948373407
-  saturation: 0.22996478946879506
-  rhythmicContrast: 0.9253120240755379
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2299647894687951
+  brandStrength: 0.4767729712184519
+  lightness: 0.6787342948373407
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#A5A7AA'
+    - '#FA04FA'
+    - '#A31F88'
+  rhythmicContrast: 0.9253120240755379
+typography_spectrum: 0.9618689
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
