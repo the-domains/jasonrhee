@@ -1,9 +1,30 @@
-favicon: null
-name: jasonrhee
+typography_spectrum: 0.9618689
+color:
+  saturation: 0.2299647894687951
+  brandStrength: 0.4767729712184519
+  lightness: 0.6787342948373407
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#A5A7AA'
+    - '#FA04FA'
+    - '#A31F88'
+  rhythmicContrast: 0.9253120240755379
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: jasonrhee
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -17,24 +38,3 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 0.2299647894687951
-  brandStrength: 0.4767729712184519
-  lightness: 0.6787342948373407
-  brandColors:
-    - '#FFFFFF'
-    - '#125688'
-    - '#A5A7AA'
-    - '#FA04FA'
-    - '#A31F88'
-  rhythmicContrast: 0.9253120240755379
-typography_spectrum: 0.9618689
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
